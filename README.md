@@ -1,6 +1,6 @@
 # 📌 Attendance Maestro
 
-A Python-based Student Attendance Management System developed as a CBSE Class 12 Computer Science project.
+A Python-based Student Attendance Management System with mysql database
 
 ## 🚀 Features
 - Teacher login & registration
