@@ -1,8 +1,8 @@
-# 📌 Attendance Maestro
+Attendance Maestro
 
 A Python-based Student Attendance Management System with mysql database
 
-## 🚀 Features
+Features
 - Teacher login & registration
 - Student registration
 - Daily & monthly attendance tracking
@@ -11,7 +11,7 @@ A Python-based Student Attendance Management System with mysql database
 - Tkinter-based GUI
 - MySQL database integration
 
-## 🛠️ Technologies Used
+Technologies Used
 - Python
 - Tkinter
 - MySQL
@@ -19,7 +19,7 @@ A Python-based Student Attendance Management System with mysql database
 - Pandas
 - NumPy
 
-## 📊 Modules
+Modules
 - Login & Authentication
 - Take Attendance
 - Daily Attendance Viewer
@@ -28,11 +28,11 @@ A Python-based Student Attendance Management System with mysql database
 - Attendance Trends
 - CSV Export
 
-## 🎓 Academic Details
+Academic Details
 - **Class:** 12  
 - **Subject:** Computer Science  
 - **Academic Year:** 2023–24  
 - **School:** Padma Seshadri Bala Bhavan Sr. Sec. School
 
-## 📌 Author
+Author
 **R. Rishita**
