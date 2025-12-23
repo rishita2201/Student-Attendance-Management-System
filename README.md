@@ -1,12 +1,12 @@
 Attendance Maestro
 
-A Python-based Student Attendance Management System with mysql database
+A Python-based Student Attendance Management System with MySQL database
 
 Features
 - Teacher login & registration
 - Student registration
 - Daily & monthly attendance tracking
-- Attendance visualization using charts
+- Attendance visualisation using charts
 - CSV export of attendance records
 - Tkinter-based GUI
 - MySQL database integration
@@ -27,12 +27,6 @@ Modules
 - Student Attendance Chart
 - Attendance Trends
 - CSV Export
-
-Academic Details
-- **Class:** 12  
-- **Subject:** Computer Science  
-- **Academic Year:** 2023–24  
-- **School:** Padma Seshadri Bala Bhavan Sr. Sec. School
 
 Author
 **R. Rishita**
